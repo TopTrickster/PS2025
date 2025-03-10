@@ -1,0 +1,12 @@
+- LOGGER -
+[Error] [Hello]
+ The method or operation is not implemented.
+- LOGGER -
+- LOGGER -
+[Error] [Hello]
+ User John failed to log in at 3/10/2025 10:47:14 AM
+- LOGGER -
+- LOGGER -
+[Error] [Hello]
+ Specified argument was out of the range of valid values. (Parameter 'User credentials not found.')
+- LOGGER -

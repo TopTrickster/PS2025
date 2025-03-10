@@ -1,0 +1,14 @@
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\bin\Debug\net8.0\Welcome.exe
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\bin\Debug\net8.0\Welcome.dll
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\bin\Debug\net8.0\Welcome.pdb
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\obj\Debug\net8.0\Welcome.dll
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\obj\Debug\net8.0\Welcome.pdb
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+C:\Users\student\39b\PS_39_BorisVlahov-master\Welcome\obj\Debug\net8.0\ref\Welcome.dll
